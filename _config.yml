@@ -22,7 +22,7 @@ title: Maryam M. Ahmed
 email: ahmedm89@students.rowan.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Maryam M. Ahmed's personal website. Learn about my research, projects, and feel free to reach out!
-baseurl: "/my-personal-site/" # the subpath of your site, e.g. /blog
+baseurl: "/my-personal-site" # the subpath of your site, e.g. /blog
 url: "https://maryam-mac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  Maryam-mac
