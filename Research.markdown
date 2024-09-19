@@ -10,6 +10,12 @@ permalink: /research/
 
 My research is in distributed systems, blockchain technology, and usable systems security. More specifically, I am working on resolving the Byzantine Generals Problem and creating a stochastic verification framework. I am also conducting joint work to find an alternative to random memorable seeds for private key generation. As well as to predict the likelihood of out-of-gas errors in the Ethereum Blockchain with a supervised ML model.
 
+- **SoK: Cyber Systems**. Under Review.  
+  *Maryam Massoud Ahmed and Nikolay Ivanov*
+
+- **OGRISK: Quantifying the Risk of Out-of-Gas Conditions in Ethereum Smart Contracts**. Under Review.  
+  *Maryam Massoud Ahmed, Michael Lim, Xiaorui Liu, Shen-Shyang Ho, and Nikolay Ivanov*
+
 - **Reducing the Consumption of Computational Resources by Smart Contracts**. Presentation at the 1st International Conference "Information technologies in environmental protection"; May 16-17, 2024; Lviv Polytechnic National University; Lviv, Ukraine (online)  
   *Maryam Massoud Ahmed, Bijayata Shrestha, Tyler Fewer, Michael Lim, Nikolay Ivanov*
 
