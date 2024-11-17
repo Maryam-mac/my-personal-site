@@ -13,8 +13,8 @@ My research is in distributed systems, blockchain technology, and usable systems
 - **SoK: Cyber Systems**. Under Review.  
   *Maryam Massoud Ahmed and Nikolay Ivanov*
 
-- **OGRISK: Quantifying the Risk of Out-of-Gas Conditions in Ethereum Smart Contracts**. Under Review.  
-  *Maryam Massoud Ahmed, Michael Lim, Xiaorui Liu, Shen-Shyang Ho, and Nikolay Ivanov*
+- **Quantifying the Risk of Out-of-Gas Conditions in Ethereum Smart Contracts**. 4th IEEE International Conference on AI in Cybersecurity (ICAIC)-2025.  
+  *Maryam Massoud Ahmed, Michael Lim, Xiaorui Liu, Shen-Shyang Ho and Nikolay Ivanov*
 
 - **Reducing the Consumption of Computational Resources by Smart Contracts**. Presentation at the 1st International Conference "Information technologies in environmental protection"; May 16-17, 2024; Lviv Polytechnic National University; Lviv, Ukraine (online)  
   *Maryam Massoud Ahmed, Bijayata Shrestha, Tyler Fewer, Michael Lim, Nikolay Ivanov*
